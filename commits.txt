@@ -1,0 +1,17 @@
+commit 539c0641cb7c3a81d22219267a10457c1b6c7dc1
+Author: juan carlos <jhernandezgraphic@gmail.com>
+Date:   Wed Apr 3 17:09:17 2019 -0430
+
+    agregamos ECOEM
+
+commit 77f8f02d9ec68a4ce961bc5c4b8de8dff62bb507
+Author: juan carlos <jhernandezgraphic@gmail.com>
+Date:   Wed Apr 3 17:00:54 2019 -0430
+
+    agrege una card en el medio y las imagenes al body y JT
+
+commit 1f67cb9bf15e603b27c1dbc08798e78bb0662674
+Author: juan carlos <jhernandezgraphic@gmail.com>
+Date:   Wed Apr 3 16:33:26 2019 -0430
+
+    Iniciamos el proyecto
